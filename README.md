@@ -1,6 +1,5 @@
 # Piano-Simulator-Noise-Cancellation
-Here I implemented a python project to generate music and cancel noise out of it. You can 
-
+Here I implemented a python project to generate music and cancel noise out of it.
 ## Installation
 You may need to install the dependencies to be able to run it.
 
